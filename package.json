@@ -1,7 +1,8 @@
 {
   "name": "pepkio-biostat-test-navigator",
   "version": "0.1.0",
-  "description": "Call the Pepkio Biostat Test Navigator REST API from Node.js with typed ESM imports and a CLI.",
+  "description": "Call the Pepkio Biostat Test Navigator REST API from Node.js with typed ESM imports, automated assumption diagnostics, and a CLI.",
+  "readme": "README_NPM.md",
   "type": "module",
   "engines": {
     "node": ">=18"
@@ -20,6 +21,7 @@
   "files": [
     "dist",
     "README.md",
+    "README_NPM.md",
     "LICENSE"
   ],
   "scripts": {
